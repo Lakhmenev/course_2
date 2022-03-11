@@ -1,0 +1,4 @@
+/venv/
+/main.log
+/utils.log
+/.pytest_cache/
